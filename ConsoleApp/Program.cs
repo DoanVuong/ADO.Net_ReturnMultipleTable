@@ -10,7 +10,10 @@ namespace ConsoleApp
         static void Main(string[] args)
         {
             string sqlConnectString = "Data Source=.;Integrated security=SSPI;Initial Catalog=Test;";
-
+            //while code we need to create two table under database with the following structure in Database name "Test":
+            // table1 ({ int Id Primanykey, Identity(1,1)}, {nvarchar(40) Name })
+            // table2 ({ int Id Primanykey, Identity(1,1)}, {nvarchar(40) Text })
+            // Done! Let's begin
             string sqlSelect = "SELECT * FROM Table_1; SELECT * FROM Table_2";
             SqlDataAdapter da = new SqlDataAdapter(sqlSelect, sqlConnectString);
             DataSet ds = new DataSet();

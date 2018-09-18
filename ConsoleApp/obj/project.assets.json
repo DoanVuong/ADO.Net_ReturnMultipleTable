@@ -1218,11 +1218,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Learning\\ConsoleApp\\ConsoleApp\\ConsoleApp.csproj",
+      "projectUniqueName": "D:\\Projects\\Github\\ADO.Net_ReturnMultipleTable\\ConsoleApp\\ConsoleApp.csproj",
       "projectName": "ConsoleApp",
-      "projectPath": "D:\\Learning\\ConsoleApp\\ConsoleApp\\ConsoleApp.csproj",
+      "projectPath": "D:\\Projects\\Github\\ADO.Net_ReturnMultipleTable\\ConsoleApp\\ConsoleApp.csproj",
       "packagesPath": "C:\\Users\\dtqvu\\.nuget\\packages\\",
-      "outputPath": "D:\\Learning\\ConsoleApp\\ConsoleApp\\obj\\",
+      "outputPath": "D:\\Projects\\Github\\ADO.Net_ReturnMultipleTable\\ConsoleApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
